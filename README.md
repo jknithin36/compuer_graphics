@@ -60,6 +60,6 @@ The colors of the walls and spheres have been changed in the following files:
 - **`primitives/sphere.cpp`**: The color for the sphere objects was modified to enhance visual aspects.
 - **`primitives/wall.cpp`**: The wall color was also updated to meet project requirements.
 
-## Thank You! 👋
+## Thank You! 😃
 
 - If you have any questions or issues, feel free to contact me.
