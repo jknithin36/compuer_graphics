@@ -45,3 +45,7 @@ This project implements a basic ray tracer that utilizes local shading with **Ph
 ## Output_Image:
 
 ![Ray Tracer](./assets/p1_output.png)
+
+## Thank You! 👋
+
+- If you have any questions or issues, feel free to contact me.
