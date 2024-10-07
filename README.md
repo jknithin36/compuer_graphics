@@ -46,6 +46,20 @@ This project implements a basic ray tracer that utilizes local shading with **Ph
 
 ![Ray Tracer](./assets/p1_output.png)
 
+### Local Shading Implementation
+
+I implemented the local shading function using Phong shading techniques in the following files:
+
+- **`Ray_Tracer.cpp`**: The main logic for ray tracing and where the Phong shading calculations are performed.
+- **`Scene/Scene.cpp`**: This file handles the scene setup and the interaction between rays and objects, integrating the local shading effects.
+
+### Color Customization
+
+The colors of the walls and spheres have been changed in the following files:
+
+- **`primitives/sphere.cpp`**: The color for the sphere objects was modified to enhance visual aspects.
+- **`primitives/wall.cpp`**: The wall color was also updated to meet project requirements.
+
 ## Thank You! 👋
 
 - If you have any questions or issues, feel free to contact me.
