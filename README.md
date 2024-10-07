@@ -1,6 +1,12 @@
 # Advanced Computer Graphics - Project 1
 
+Output_Image:
+
 ![Ray Tracer](./assets/p1_output.png)
+
+Execution Screenshot:
+
+![Execution_screenshot] (assets/execution_screenshot.png)
 
 ## 📚 Overview
 
