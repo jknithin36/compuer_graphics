@@ -6,7 +6,7 @@ Output_Image:
 
 Execution Screenshot:
 
-![Execution_screenshot] (assets/execution_screenshot.png)
+![Execution_screenshot] (./assets/execution_screenshot.png)
 
 ## 📚 Overview
 
